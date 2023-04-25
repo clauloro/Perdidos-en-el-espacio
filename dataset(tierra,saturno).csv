@@ -1,0 +1,11 @@
+ID,Longitud,Tiempo,g_calculado,Planeta_mas_probable,2do_mas_probable
+1,0.80,0.40,10.0,Tierra,80
+2,1.30,0.52,9.52,Tierra,93
+3,1.50,0.56,9.57,Tierra,91
+4,0.90,0.43,9.67,Tierra,88
+5,1.10,0.47,9.97,Tierra,82
+6,2.10,0.66,9.60,Tierra,89
+7,1.80,0.61,9.63,Tierra,87
+8,1.20,0.50,9.60,Tierra,89
+9,2.30,0.69,9.53,Tierra,92
+10,1.40,0.54,9.55,Tierra,90
